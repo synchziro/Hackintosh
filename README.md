@@ -1,7 +1,7 @@
 # Hackintosh
 Kumpulan file-file (yang mungkin) penting untuk ngoprek hekintos.
 
-Content :
+Konten :
 - DSDT
 - SSDT
 - Kext
